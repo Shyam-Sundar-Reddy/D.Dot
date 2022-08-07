@@ -1,0 +1,13 @@
+body{
+  margin: 0;
+text-align: center;
+  font-family: monospace;
+  background-color: #BDD2B6;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color:#112B3C;
+  border-width:4px;
+  width:60%;
+}
